@@ -1,6 +1,5 @@
 // SPA Router - single-page blog engine
 (function() {
-  var 
   var siteTitle = document.querySelector("meta[name=blog-title]").content;
   var posts = [];
   var currentView = null;
