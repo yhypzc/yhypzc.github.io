@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="light">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="blog-title" content="yhypzc's Blog"><meta name="blog-desc" content="Security Research & CTF Writeups">
+<meta name="description" content="Security Research & CTF Writeups">
+<title>yhypzc's Blog</title>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="./css/highlight.css">
+</head>
+<body class="has-banner">
+<header id="navbar"><div class="navbar-inner">
+<a href="./" class="navbar-brand" id="nav-home"><img src="./assets/home/home.webp" alt="" width="28" height="28"><span class="navbar-title">yhypzc's Blog</span></a>
+<nav class="navbar-links"><a href="./" class="navbar-link active" id="nav-blog">Blog</a><a href="./archive.html" class="navbar-link" id="nav-archive">Archive</a></nav>
+<div class="navbar-actions"><button id="theme-toggle" class="btn-icon" aria-label="Toggle theme"><iconify-icon class="icon-sun" icon="material-symbols:light-mode-rounded"></iconify-icon><iconify-icon class="icon-moon" icon="material-symbols:dark-mode-rounded"></iconify-icon></button></div>
+</div></header>
+<div id="home-banner">
+  <picture><source srcset="./assets/mobile-banner/1.webp" media="(max-width:640px)"><img class="banner-img" src="./assets/desktop-banner/1.webp" alt=""></picture>
+  <div class="banner-overlay"></div>
+  <div class="banner-text"><h1>yhypzc's Blog</h1><p><span id="typed-subtitle"></span><span class="typed-cursor">|</span></p></div>
+</div>
+<script>
+(function(){var s=["特にことはないけど、君がいると十分です","今でもあなたは私の光","今日はなんでもない日。でも、ちょっとだけいい日"];var i=0,c=0,d=!0,t=document.getElementById("typed-subtitle");function p(){if(d){if(c<s[i].length){t.textContent+=s[i][c];c++;setTimeout(p,80)}}else{d=!1;setTimeout(p,2000)}}else{if(c>0){t.textContent=t.textContent.slice(0,-1);c--;setTimeout(p,40)}}else{d=!0;i=(i+1)%s.length;setTimeout(p,500)}}}p()})();
+</script>
+<main class="main-container">
+  <div id="blog-list"></div>
+  <div id="post-view" style="display:none"></div>
+</main>
+<footer class="site-footer"><div class="footer-inner">&copy; 2026 yhypzc's Blog &mdash; Powered by <a href="https://pages.github.com">GitHub Pages</a></div></footer>
+<script src="https://cdn.jsdelivr.net/npm/iconify-icon@2.1.0/dist/iconify-icon.min.js"></script>
+<script src="./js/marked.min.js"></script>
+<script src="./js/theme.js"></script>
+<script src="./js/navbar.js"></script>
+<script src="./js/app.js"></script>
+</body></html>
