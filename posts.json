@@ -1,5 +1,21 @@
 [
   {
+    "title": "Hello World — 第一篇博客",
+    "published": "2026-07-20",
+    "updated": "",
+    "description": "这是我的第一篇博客，使用 Mizuki 风格的纯静态博客系统。",
+    "tags": [
+      "Blog",
+      "Mizuki"
+    ],
+    "category": "随笔",
+    "image": "",
+    "pinned": true,
+    "slug": "hello-world",
+    "md_filename": "index.md",
+    "words": 103
+  },
+  {
     "title": "CISCN 2026 复盘",
     "published": "2026-07-24",
     "updated": "",
