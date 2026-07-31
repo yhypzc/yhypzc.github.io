@@ -925,7 +925,7 @@ __int64 __fastcall social_chat_app_core_utils_crypto_utils_CryptoUtils::sha256_3
 
 sha256算法返回的结果是String，说明结果肯定是sha256 hex，这一点可在数据库印证。
 
-所以登录的算法是 `sha(sha256(((salt!=null)?(password+salt):password)))`
+所以登录的算法是 `sha256(sha256(((salt!=null)?(password+salt):password)))`
 
 
 

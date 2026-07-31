@@ -16,6 +16,21 @@
     "words": 103
   },
   {
+    "title": "FIC2026服务器取证",
+    "published": "2026-07-31",
+    "updated": "",
+    "description": "天崩开局之火眼扫不出文件系统，低版本的火眼仿不起来，要用高版本，比赛前火眼不更新，直接爆0哈哈哈",
+    "tags": [
+      "Forensics"
+    ],
+    "category": "Forensics",
+    "image": "",
+    "pinned": false,
+    "slug": "FIC2026服务器取证",
+    "md_filename": "FIC2026服务器取证.md",
+    "words": 3083
+  },
+  {
     "title": "2026盘古石杯初赛-恼人的Flutter",
     "published": "2026-07-30",
     "updated": "",
