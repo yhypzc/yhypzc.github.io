@@ -16,6 +16,23 @@
     "words": 103
   },
   {
+    "title": "纪检工作台正式上线啦！",
+    "published": "2026-08-02",
+    "updated": "",
+    "description": "纪检工作台是一套用于警务化管理和日常扣分业务管理的本地化管理系统，主要提供以下功能：",
+    "tags": [
+      "Web",
+      "Go",
+      "Vue.js"
+    ],
+    "category": "Web",
+    "image": "",
+    "pinned": false,
+    "slug": "纪检工作台正式上线啦！",
+    "md_filename": "纪检工作台正式上线啦！.md",
+    "words": 2394
+  },
+  {
     "title": "FIC2026服务器取证",
     "published": "2026-07-31",
     "updated": "",
