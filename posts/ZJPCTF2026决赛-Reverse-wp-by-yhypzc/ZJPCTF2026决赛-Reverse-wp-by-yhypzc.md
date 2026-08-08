@@ -168,7 +168,7 @@ __int64 __fastcall _start_enc_mirror_sec(unsigned __int8 *a1)
 }
 ```
 
-再静态分析找到密钥。
+再静态分析找到密文。
 
 ```Plain Text
 .rodata:0000000000402020 cipher          db 0C1h
