@@ -22,14 +22,15 @@
     "description": "纪检工作台是一套用于警务化管理和日常扣分业务管理的本地化管理系统，主要提供以下功能：",
     "tags": [
       "Web",
-      "Forensics"
+      "Go",
+      "Vue.js"
     ],
     "category": "Web",
     "image": "",
     "pinned": false,
     "slug": "纪检工作台正式上线啦！",
     "md_filename": "纪检工作台正式上线啦！.md",
-    "words": 2599
+    "words": 2631
   },
   {
     "title": "培训测试1-1",
