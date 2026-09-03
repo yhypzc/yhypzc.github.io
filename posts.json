@@ -33,6 +33,24 @@
     "words": 2631
   },
   {
+    "title": "纪检工作台 / PoliceStyleWorkspace 技术文档",
+    "published": "2026-09-03",
+    "updated": "",
+    "description": "纪检工作台是一个面向警务化管理日常工作和扣分记录维护的本地化桌面 Web 应用。项目由 Go 单体服务、内嵌 Vue 前端和 EUI-NEO Windows GUI 管理端组成，运行数据默认保存在发布目录内。",
+    "tags": [
+      "Web",
+      "Go",
+      "Vue.js",
+      "SQLite"
+    ],
+    "category": "Web",
+    "image": "",
+    "pinned": false,
+    "slug": "纪检工作台(PoliceStyleWorkspace)技术文档",
+    "md_filename": "纪检工作台(PoliceStyleWorkspace)技术文档.md",
+    "words": 2876
+  },
+  {
     "title": "培训测试1-1",
     "published": "2026-08-29",
     "updated": "",
