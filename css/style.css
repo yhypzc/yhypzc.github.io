@@ -259,7 +259,8 @@ img:not([src]),img[src=""],img[src="#"]{visibility:hidden}
 /* ===== Layout: Sidebar + Main ===== */
 .layout-wrapper {
   display: flex;
-  max-width: 72rem;
+  width: 100%;
+  max-width: none;
   margin: 0 auto;
   padding: 2rem 1.25rem 4rem;
   gap: 2rem;
