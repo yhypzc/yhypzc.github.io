@@ -16,6 +16,22 @@
     "words": 103
   },
   {
+    "title": "纪检工作台正式上线啦！",
+    "published": "2026-09-03",
+    "updated": "",
+    "description": "纪检工作台是一套用于警务化管理和日常扣分业务管理的本地化管理系统，主要提供以下功能：",
+    "tags": [
+      "Web",
+      "Forensics"
+    ],
+    "category": "Web",
+    "image": "",
+    "pinned": false,
+    "slug": "纪检工作台正式上线啦！",
+    "md_filename": "纪检工作台正式上线啦！.md",
+    "words": 2599
+  },
+  {
     "title": "培训测试1-1",
     "published": "2026-08-29",
     "updated": "",
@@ -49,21 +65,23 @@
     "words": 6500
   },
   {
-    "title": "纪检工作台正式上线啦！",
-    "published": "2026-08-02",
+    "title": "平航杯2026团体复盘-除了手机和二进制",
+    "published": "2026-08-05",
     "updated": "",
-    "description": "纪检工作台是一套用于警务化管理和日常扣分业务管理的本地化管理系统。",
+    "description": "Pixel 6",
     "tags": [
+      "Forensics",
       "Web",
-      "Go",
-      "Vue.js"
+      "Crypto",
+      "Reverse",
+      "Blog"
     ],
-    "category": "Web",
+    "category": "Forensics",
     "image": "",
     "pinned": false,
-    "slug": "纪检工作台正式上线啦！",
-    "md_filename": "纪检工作台正式上线啦！.md",
-    "words": 2486
+    "slug": "平航杯2026团体复盘-除了手机和二进制",
+    "md_filename": "平航杯2026团体复盘-除了手机和二进制.md",
+    "words": 10971
   },
   {
     "title": "FIC2026服务器取证",
